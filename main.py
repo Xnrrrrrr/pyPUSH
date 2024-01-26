@@ -53,7 +53,7 @@ def create_commit():
         return None
 
 
-# Main function
+# Main functionss
 def main():
     # Create a new commit
     commit_sha = create_commit()
